@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.exe
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.deps.json
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.runtimeconfig.json
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.dll
+C:\Users\Ali\source\repos\TasK1\TasK1\bin\Debug\netcoreapp3.1\TasK1.pdb
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.AssemblyInfo.cs
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.dll
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.pdb
+C:\Users\Ali\source\repos\TasK1\TasK1\obj\Debug\netcoreapp3.1\TasK1.genruntimeconfig.cache
